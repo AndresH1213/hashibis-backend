@@ -3,8 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm install -g npm
-      - npm install
+      - npm install -E
       - npm install ./layers/src/common
   pre_build:
     commands:
