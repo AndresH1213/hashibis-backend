@@ -5,6 +5,8 @@ dist
 .esbuild
 .build
 
+package-lock.json
+
 .serverless
 
 node_modules
