@@ -1,0 +1,13 @@
+{
+  "name": "John",
+  "lastname": "Doe",
+  "birthday": "1990-01-01",
+  "address": "123 Main St",
+  "identification": "123456789",
+  "identificationType": "CC",
+  "gender": "male",
+  "phone": "+38324892942",
+  "hasMedicalHistory": true,
+  "lastOrder": "2022-04-01",
+  "ordersNumber": 5
+}

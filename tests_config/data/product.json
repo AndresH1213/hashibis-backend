@@ -1,0 +1,17 @@
+{
+  "name": "Golden CO2 Oil",
+  "code": "GCO",
+  "description": "Potency meets purity. Our CO2 Oil brings you the real deal. A small hit, and you're in for a flavor-packed adventure.",
+  "category": "Concentrates",
+  "concentration": 70,
+  "measureUnitConcentration": "percent THC",
+  "tags": ["oil", "CO2 extraction", "concentrate"],
+  "price": 60,
+  "images": [],
+  "benefits": ["intense euphoria", "relaxation", "pain relief"],
+  "views": 0,
+  "likes": 0,
+  "personalDosis": "1 dab",
+  "recommendation": "evening use",
+  "scientificResearch": []
+}

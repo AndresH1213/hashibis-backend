@@ -1,0 +1,10 @@
+localBucket
+docker
+
+dist
+.esbuild
+.build
+
+.serverless
+
+node_modules
