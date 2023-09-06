@@ -7,6 +7,7 @@ phases:
       - npm install ./layers/src/common
   pre_build:
     commands:
+      - npm run removeProfiles
       - npm run test
   build:
     commands:

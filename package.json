@@ -15,6 +15,7 @@
     "install:layers": "npm run install ./layers/src/common",
     "listTables": "aws dynamodb list-tables --endpoint-url http://localhost:8000",
     "resetTables": "./build.sh --remove-tables && ./build.sh --build-tables",
+    "removeProfiles": "./build.sh --remove-profiles",
     "scanTable": "aws dynamodb scan --table-name api-hashibis-$npm_config_table-table-dev --endpoint-url http://localhost:8000",
     "test": "./build.sh --run-tests"
   },
