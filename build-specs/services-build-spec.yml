@@ -6,7 +6,7 @@ phases:
       - npm install -g npm
       - npm install
       - npm install ./layers/src/common
-  pre-build:
+  pre_build:
     commands:
       - npm run test
   build:
